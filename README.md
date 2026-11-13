@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # LectureMind AI
 
 A premium AI‑powered lecture & meeting note generation platform.
@@ -34,3 +35,7 @@ lecturemind-ai/
 ├─ .env.example
 └─ README.md
 ```
+=======
+# Lacture-Mind-
+AI-powered lecture intelligence platform that converts recorded lectures and meetings into structured notes, summaries, transcripts, quizzes, and actionable learning insights.
+>>>>>>> b6363dec13430dd0593a084b80f1469022524adf
